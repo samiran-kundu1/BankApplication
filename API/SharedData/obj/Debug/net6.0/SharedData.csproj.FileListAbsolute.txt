@@ -1,0 +1,15 @@
+C:\Users\SAMIRAN\source\repos\BankApplicationApi\SharedData\bin\Debug\net6.0\SharedData.deps.json
+C:\Users\SAMIRAN\source\repos\BankApplicationApi\SharedData\bin\Debug\net6.0\SharedData.dll
+C:\Users\SAMIRAN\source\repos\BankApplicationApi\SharedData\bin\Debug\net6.0\SharedData.pdb
+C:\Users\SAMIRAN\source\repos\BankApplicationApi\SharedData\bin\Debug\net6.0\Entities.dll
+C:\Users\SAMIRAN\source\repos\BankApplicationApi\SharedData\bin\Debug\net6.0\Entities.pdb
+C:\Users\SAMIRAN\source\repos\BankApplicationApi\SharedData\obj\Debug\net6.0\SharedData.csproj.AssemblyReference.cache
+C:\Users\SAMIRAN\source\repos\BankApplicationApi\SharedData\obj\Debug\net6.0\SharedData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMIRAN\source\repos\BankApplicationApi\SharedData\obj\Debug\net6.0\SharedData.AssemblyInfoInputs.cache
+C:\Users\SAMIRAN\source\repos\BankApplicationApi\SharedData\obj\Debug\net6.0\SharedData.AssemblyInfo.cs
+C:\Users\SAMIRAN\source\repos\BankApplicationApi\SharedData\obj\Debug\net6.0\SharedData.csproj.CoreCompileInputs.cache
+C:\Users\SAMIRAN\source\repos\BankApplicationApi\SharedData\obj\Debug\net6.0\SharedData.csproj.CopyComplete
+C:\Users\SAMIRAN\source\repos\BankApplicationApi\SharedData\obj\Debug\net6.0\SharedData.dll
+C:\Users\SAMIRAN\source\repos\BankApplicationApi\SharedData\obj\Debug\net6.0\refint\SharedData.dll
+C:\Users\SAMIRAN\source\repos\BankApplicationApi\SharedData\obj\Debug\net6.0\SharedData.pdb
+C:\Users\SAMIRAN\source\repos\BankApplicationApi\SharedData\obj\Debug\net6.0\ref\SharedData.dll
