@@ -1,0 +1,29 @@
+<h1>List Of Users:</h1>
+<form>
+<table>
+  <tr *ngFor="let user of users">
+    <td> {{ user.username }} 
+    <a>
+      Accounts: <button (click)="GetAccount(user.userId)">Get Accounts</button>
+    </a>
+    <button (click)="CreateAccount(user.userId)">Create Account</button> 
+    <input type="number" [(ngModel)]="user.AmountToBeDepositedOrWithdrawn" *ngIf="IsVisible ==true"  name="Test"> 
+    <button (click)="OnSubmit(user)" *ngIf="user.AmountToBeDepositedOrWithdrawn">Create</button> 
+    </td>
+</table>
+
+<table>
+  <tr *ngFor="let acct of accounts ">
+ <td>Account Number: {{acct.accountNumber}}</td>
+ <td>Total Balance:{{acct.balance}}</td>
+ <td>Withdraw/Deposit Amount($): <input type="number" [(ngModel)]="acct.AmountToBeDepositedOrWithdrawn" name="Test"> 
+ </td>
+ <br>
+ <button (click)="DePositAmountInAccount(acct)"> Deposit Amount </button>
+ <button (click)="WithDrawAmountInAccount(acct)"> WithDraw Amount </button>
+ <br>
+ <button (click)="DeleteAccount(acct)"> Delete Account </button>
+</tr>
+  
+</table>
+</form>
